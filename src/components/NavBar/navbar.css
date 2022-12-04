@@ -1,0 +1,18 @@
+.navbar {
+  position: fixed;
+  background: linear-gradient(#01010170, #01010110);
+  z-index: 5;
+  width: 100%;
+  top: 0;
+}
+
+.navbar h2 {
+  color: #fff;
+}
+.navbar-light .navbar-toggler {
+  border: 1px solid #fff;
+  background-color: #ffffff50;
+}
+.navbar-light .navbar-toggler-icon {
+  color: green !important;
+}

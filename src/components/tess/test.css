@@ -1,0 +1,22 @@
+/*componente pregunta*/
+.evaluacion{
+    padding-top: 80px;
+}
+.contenedor1 button{
+    background-color: #24c424;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 2px 3px 4px #00800050;
+    text-shadow: 2px 3px 4px #010101;
+}
+.contenedor1 .text-center{
+    color: #008000;
+    text-shadow: 3px 5px 7px #f25c05;
+}
+.contenedor1 button:hover{
+    transform: scale(1.05);
+    transition: all 0.5s;
+}
